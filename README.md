@@ -9,3 +9,6 @@ git status
 git commit -m "Initialized DVC"
 
 dvc get <link>
+
+dir data\data.xml
+
