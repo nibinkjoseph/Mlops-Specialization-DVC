@@ -12,3 +12,7 @@ dvc get <link>
 
 dir data\data.xml
 
+dvc add data/data/data.xml
+
+
+
